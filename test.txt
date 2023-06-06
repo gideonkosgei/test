@@ -1,0 +1,6 @@
+import uuid
+
+run_uuid = str(uuid.uuid4())
+print('--------------------------------')
+print(type(run_uuid))
+print(run_uuid)
