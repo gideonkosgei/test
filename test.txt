@@ -1,8 +1,1 @@
-import uuid
-
-run_uuid = str(uuid.uuid4())
-print(type(run_uuid))
-print(run_uuid)
-print('Gideon Branch21')
-
-
+gideon branch -> deleted everything on the txt file
