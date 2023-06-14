@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import uuid
 
 run_uuid = str(uuid.uuid4())
@@ -11,3 +12,6 @@ ff
 
 
 print(kkk)
+=======
+gideon branch -> deleted everything on the txt file
+>>>>>>> gideon
